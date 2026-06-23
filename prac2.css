@@ -1,0 +1,34 @@
+*
+{
+    margin: 0;
+}
+.item1
+{
+    width: 300px;
+    height: 300px;
+    background-color: rgba(238, 130, 238, 0.86);
+    position: relative;
+    left: 100px;
+    top:  100px;
+}
+.item2
+{
+    width: 300px;
+    height: 300px;
+    margin-top: 50px;
+    background-color: rgba(153, 205, 50, 0.781);
+}
+.item3
+{
+    width: 300px;
+    height: 300px;
+    background-color: rgba(218, 165, 32, 0.778);
+    position: relative;
+    right: 100px;
+    top:  100px;
+}
+.cont
+{
+    display: flex;
+    background-color: rgb(165, 42, 42);
+}
